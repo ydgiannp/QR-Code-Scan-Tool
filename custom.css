@@ -1,0 +1,8 @@
+@font-face {
+  font-family: Magpie;
+  src: url(Magpie-Paper-Works-Saissant.otf);
+}
+
+h3, h2, h1 {
+  font-family: Magpie;
+}

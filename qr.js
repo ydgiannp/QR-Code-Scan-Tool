@@ -239,11 +239,15 @@ var app = new Vue({
 					},
 					{
 						phone: "08121079092",
-						name: "Keith Evans & Ryan"
+						name: "Keith Evens & Ryan"
 					},
 					{
 						phone: "0811826748",
 						name: "Madison & Mikey"
+					},
+					{
+						phone: "08129323389",
+						name: "Kriskuarto Tutuko & Ratih Janis"
 					}
 				]
 			}
